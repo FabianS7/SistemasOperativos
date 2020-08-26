@@ -15,7 +15,7 @@ echo eleminado archivo
 
  rm text.txt
 
-cd "C:\Windows\System32"
+
 
 start notepad.exe
 
